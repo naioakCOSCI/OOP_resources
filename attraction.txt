@@ -1,0 +1,17 @@
+var attractionNames = ["Buckingham Palace",
+    "The Eiffel Tower",
+    "The Grand Canyon",
+    "Windsor Castle",
+    "Empire State Building"]
+    
+    var webAddresses = ["http://en.wikipedia.org/wiki/Buckingham_Palace",
+    "http://en.wikipedia.org/wiki/Eiffel_Tower",
+    "http://en.wikipedia.org/wiki/Grand_Canyon",
+    "http://en.wikipedia.org/wiki/Windsor_Castle",
+    "http://en.wikipedia.org/wiki/Empire_State_Building"]
+    
+    var attractionImages = ["buckingham_palace.jpg",
+    "eiffel_tower.jpg",
+    "grand_canyon.jpg",
+    "windsor_castle.jpg",
+    "empire_state_building.jpg"]
